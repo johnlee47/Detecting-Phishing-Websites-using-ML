@@ -318,3 +318,6 @@ onto it.
 Working on this project was very knowledgeable and worth the effort. In the future, this project 
 could be used as a browser extension or an application with a user interface that users can use to 
 detect phishing websites more easily.
+ 
+ ![image](https://user-images.githubusercontent.com/33021726/149592001-33c1df0a-ce0b-467b-9a57-5e75c7a735f8.png)
+
